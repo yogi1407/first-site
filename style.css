@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+ ul{
+     display: flex;
+     justify-content: space-evenly;
+     list-style-type: none;
+     font-size: x-large;
+
+ }   
+ nav{
+     width: 60vw;
+     margin-top: 10px;
+ }
+ bigImage{
+     width: 95vw;
+     margin: 1rem;
+ }
+ .container{
+     display: flex;
+     text-align: center;
+
+ }
+ div>div>p{
+     font-size: x-large;
+     
+ }
+ div>div>h1{
+     
+ }
